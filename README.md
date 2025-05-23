@@ -1,5 +1,10 @@
 # Nexus SDK
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Talus-Network/nexus-sdk/blob/main/LICENSE.txt)
+[![Discussions](https://img.shields.io/github/discussions/commonwarexyz/monorepo?label=Discussions&color=purple)](https://github.com/commonwarexyz/monorepo/discussions)
+[![Benchmarks](https://img.shields.io/badge/230-benchmarks?style=flat&label=Benchmarks&color=orange)](https://commonware.xyz/benchmarks.html)
+[![Coverage](https://codecov.io/gh/commonwarexyz/monorepo/graph/badge.svg?token=847TBNH49H)](https://codecov.io/gh/commonwarexyz/monorepo)
+
 The **Nexus SDK** is a collection of tools that simplifies building with **Nexus**, the Agentic Workflow Engine. Developers can quickly create [Talus agents][talus-agents] or [Talus tools][talus-tools].
 
 This repository includes open-source Nexus packages:
